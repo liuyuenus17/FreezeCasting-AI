@@ -8,7 +8,7 @@
 	4) Click "Clear" to remove the current result.
 	
 4. Files introduction:
-	GUI_parts.py --including supporting functions
-	model.h5 --a well-trained ANN model
-	Material_Dictionary.csv --the dictionary of materials and their one-hot encoding
-	ANNTool --main program
+	1) GUI_parts.py --including supporting functions
+	2) model.h5 --a well-trained ANN model
+	3) Material_Dictionary.csv --the dictionary of materials and their one-hot encoding
+	4) ANNTool --main program
