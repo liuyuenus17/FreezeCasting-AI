@@ -1,4 +1,4 @@
-# FreezeCasting-AI
+# FreezeCasting-AI Prediction
 1. This tool is coded by Python 3.6. Please install Python 3.6.
 2. Necessary packages: numpy, pandas, tensorflow (version > 1.12), keras. Please install all these packages before using this tool.
 3. How to use it:
